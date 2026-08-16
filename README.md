@@ -9,6 +9,15 @@ A modern, full-stack microservices task management application built with a **Re
 
 ---
 
+## 🎯 Purpose of the Project
+
+This project serves two primary objectives:
+
+- **Product & Utility**: Delivers a responsive Task Management application for creating, tracking, filtering, and managing tasks in real time.
+- **Cloud-Native Blueprint**: Demonstrates a reference architecture for building, containerizing (Docker), and orchestrating (Kubernetes) decoupled multi-tier web applications (React + Flask + MongoDB).
+
+---
+
 ## 📐 Project Architecture
 
 ```
