@@ -2,7 +2,6 @@
 
 A modern, full-stack microservices task management application built with a **React 19 + Vite** frontend, a **Python Flask REST API** backend, **MongoDB**, and **Kubernetes** orchestration configurations.
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![React](https://img.shields.io/badge/Frontend-React_19_%2B_Vite-61DAFB?logo=react)
 ![Python](https://img.shields.io/badge/Backend-Flask-3776AB?logo=flask)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
@@ -122,9 +121,3 @@ kubectl apply -f k8s/service.yaml
 # Verify deployment status
 kubectl get pods,services
 ```
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
